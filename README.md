@@ -39,14 +39,14 @@ This application allows user to create/manage recipes and add ingredients to sho
 
 ## Setup
 
-*Clone the project
-*From terminal, run `npm install` to build all dependencies in project
-*Add your firebase Api key in environment.ts and environment.prod.ts
+* Clone the project
+* From terminal, run `npm install` to build all dependencies in project
+* Add your firebase Api key in environment.ts and environment.prod.ts
     export const environment = {
       production: false,
       firebaseAPIKey: 'YOUR KEY'
     };
-*Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files
+* Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files
 
 
 ## Features
